@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">same_target_layout_arnau</string>
+    <string name="textTitle">Star Wars</string>
+    <string name="textSubtitle">Empire &amp; Resistance</string>
+
+    <string name="textChar1">Darth Sidious</string>
+    <string name="textChar2">Darth Vader</string>
+    <string name="textChar3">StormTrooper</string>
+    <string name="textChar4">Darth Maul</string>
+    <string name="textChar5">C-3PO</string>
+    <string name="textChar6">Yoda</string>
+    <string name="textChar7">Luke</string>
+    <string name="textChar8">Chewbacca</string>
+
+    <string name="textSubtitle2">Char details</string>
+
+    <string name="charSide1">Dark Side</string>
+    <string name="charSide2">Light Side</string>
+
+    <string name="cardSpecies1">Human</string> <!--Darth Sidious/Darth Vader/Stormtrooper/Luke-->
+    <string name="cardSpecies2">Zabrak</string> <!--Darth Maul-->
+    <string name="cardSpecies3">Droid</string> <!--C-3PO-->
+    <string name="cardSpecies4">Unknown</string> <!--Yoda-->
+    <string name="cardSpecies5">Wookiee</string> <!--Chewbacca-->
+
+    <string name="charLongText1"> <!--Darth Sidious-->
+        The dark side of the Force is a pathway to many abilities some consider to be unnatural,
+        and Sheev Palpatine is the most infamous follower of its doctrines. Scheming, powerful,
+        and evil to the core, Darth Sidious restored the Sith and destroyed the Jedi Order.
+        Living a double life, he was also Palpatine, a Naboo Senator and phantom menace.
+        He manipulated the political system of the Galactic Republic until he was named
+        Supreme Chancellor -- and eventually Emperor – and ruled the galaxy through fear and tyranny.
+        The galaxy rejoiced when he died at the Battle of Endor, but Sidious had cheated death and
+        patiently plotted a return to power.
+    </string>
+    <string name="charLongText2"> <!--Darth Vader-->
+        Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became
+        a Sith Lord, and led the Empire’s eradication of the Jedi Order. He remained in service
+        of the Emperor -- the evil Darth Sidious -- for decades, enforcing his Master’s will and
+        seeking to crush the fledgling Rebel Alliance. But there was still good in him…
+    </string>
+    <string name="charLongText3"> <!--Stromtrooper-->
+        Stormtroopers are elite shock troops fanatically loyal to the Empire and impossible to
+        sway from the Imperial cause. They wear imposing white armor, which offers a wide range
+        of survival equipment and temperature controls to allow the soldiers to survive in almost
+        any environment. Stormtroopers wield blaster rifles and pistols with great skill, and
+        attack in hordes to overwhelm their enemies. Along with standard stormtroopers, the Empire
+        has organized several specialized units, including snowtroopers and scout troopers.
+    </string>
+    <string name="charLongText4"> <!--Darth Maul-->
+        A deadly, agile Sith Lord trained by the evil Darth Sidious, Darth Maul was a formidable
+        warrior and scheming mastermind. He wielded an intimidating double-bladed lightsaber and
+        fought with a menacing ferocity. Though he fell in battle against Obi-Wan Kenobi, the Zabrak
+        from Dathomir would prove to be much harder to destroy than originally believed.
+    </string>
+    <string name="charLongText5"> <!--C-3PO-->
+        C-3PO longs for more peaceful times, but his continued service to the Resistance — and his
+        knowledge of more than seven million forms of communication — keeps the worry-prone droid
+        in the frontlines of galactic conflict. Programmed for etiquette and protocol, Threepio was
+        built by a young Anakin Skywalker, and has been a constant companion to astromech R2-D2.
+        Over the years, he was involved in some of the galaxy’s most defining moments and thrilling
+        battles. Since the Empire’s defeat, C-3PO has served Leia Organa, head of a Resistance spy
+        ring aimed at undermining the First Order.
+    </string>
+    <string name="charLongText6"> <!--Yoda-->
+        Yoda was a legendary Jedi Master and stronger than most in his connection with the Force.
+        Small in size but wise and powerful, he trained Jedi for over 800 years, playing integral
+        roles in the Clone Wars, the instruction of Luke Skywalker, and unlocking the path to immortality.
+    </string>
+    <string name="charLongText7"> <!--Luke-->
+        Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the
+        greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo,
+        Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny
+        of the Sith. A generation later, the location of the famed Jedi master was one of the galaxy’s
+        greatest mysteries. Haunted by Ben Solo’s fall to evil and convinced the Jedi had to end,
+        Luke sought exile on a distant world, ignoring the galaxy’s pleas for help. But his solitude
+        would be interrupted – and Luke Skywalker had one final, momentous role to play in the struggle
+        between good and evil.
+    </string>
+    <string name="charLongText8"> <!--Chewbacca-->
+        A legendary Wookiee warrior and Han Solo’s longtime co-pilot, Chewbacca continues to serve
+        as faithful first mate to carry out daring missions against the First Order behind the
+        controls of the Millennium Falcon. Known as Chewie to his closest friends, he was part
+        of a core group of rebels who restored freedom to the galaxy during the reign of the
+        Galactic Empire. Known for his short temper and accuracy with a bowcaster, Chewie also
+        has a big heart and unwavering loyalty to his friends.
+    </string>
+
+</resources>
